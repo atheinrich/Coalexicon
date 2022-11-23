@@ -1,0 +1,264 @@
+<Name>	<Primary>	<Secondary>	<Common>	<Units>	<Index>	<Category>
+angle (solid)	A			1	0	quantity
+definition	≡	≝	0	<none>	0	other
+equals (special case)	≐	0	0	<none>	0	other
+angular acceleration	ν	0		C⸱mol⁻¹	A	quantity
+area (planar)	N	A		m²	a	quantity
+magnetic vector potential	q	0	z; ε	1	0	quantity
+area (solid)	q	ℒ	z; ε	1	a	quantity
+atomic mass units [unit]	λ	amu	ua; a	g	a	quantity
+virial coefficient	Bᵢ	0	a; b; c	<various>	a	quantity
+bulk modulus	B	0	0	g⸱m⁻¹⸱s⁻²	b	quantity
+bulk modulus (adiabatic)	Bₐ	0	0	g⸱m⁻¹⸱s⁻²	b	quantity
+expansion coefficient	αₗ		αᵧ; β	K⁻¹	B	quantity
+magnetic field strength; magnetic flux density	B	0	H	g⸱C⁻¹⸱s⁻¹	b	quantity
+capacitance	C	0	0	C²⸱s²⸱g⁻¹⸱m⁻²	c	quantity
+constant (unspecified)	c	0	C	<none>	c	other
+drag coefficient	C_D	c_d	0	1	c	quantity
+heat capacity	C	C_Q		g⸱m²⸱K⁻¹⸱s⁻²	c	quantity
+heat capacity (specific)	c	0	0	m²⸱K⁻¹⸱s⁻²	c	quantity
+performance coefficient	COP	0		1	c	quantity
+velocity of light; speed of light	c	0	c₀	m⸱s⁻¹	c	quantity
+change (differential)	d	0	0	<none>	d	other
+change (finite; point function)	Δ	0	Δ	<none>	D	other
+change (inexact differential)	đ	0	0	<none>	d	other
+change (infinitesimal; path function)	δ	0		<none>	D	other
+change (infinitesimal; point function)	d	0		<none>	d	other
+distance	d	0	l; s; r	m	d	quantity
+efficiency	ε₊	0	η	1	E	quantity
+electric field strength; electric flux density	Є	E_F	E	g⸱m⸱C⁻¹⸱s⁻²	e	quantity
+emissivity	ε	0	0	1	E	quantity
+energy	E	0	β	g⸱m²⸱s⁻²	e	quantity
+energy of a particle	E	0	ϵ	C²⸱s²⸱g⁻¹⸱m⁻²	E	quantity
+permittivity	ε	ε₀	0	C²⸱s²⸱g⁻¹⸱m⁻³	E	quantity
+strain	ε	0	ϵ	1	E	quantity
+angle (incident); phase	ϕ	0	0	1	F	quantity
+degrees of freedom; variance	⨍	f	F; f	1	f	quantity
+electric flux	Φₑ	0	Ψ	g⸱m³⸱C⁻¹⸱s⁻²	F	quantity
+electric force	Fₑ	0	0	g⸱m⸱s⁻²	f	quantity
+Faraday constant	ℱ	0	F	C⸱mol⁻¹	F	quantity
+force	F	0	0	g⸱m⸱s⁻²	f	quantity
+frequency	f	0	ν	s⁻¹	f	quantity
+magnetic flux	Φᵦ	0	Φ; Φₘ	g⸱m²⸱C⁻¹⸱s⁻¹	F	quantity
+magnetic force	Fᵦ	0	0	g⸱m⸱s⁻²	f	quantity
+adiabatic constant; specific heat ratio	γ	0	k	1	G	quantity
+degeneracy; statistical weight	η	0	gᵢ	1	g	quantity
+electrical conductance	R⁻¹	ʀ⁻¹	G	C²⸱s⸱g⁻¹⸱m⁻²	g	quantity
+Gibbs free energy	G	0		g⸱m²⸱s⁻²	g	quantity
+gravitational acceleration (Earth)	g	0	0	m⸱s⁻²	g	quantity
+gravitational constant	G	0	0	m³⸱g⁻¹⸱s⁻²	g	quantity
+distance (vertical orthogonal); height	h	0	0	m	h	quantity
+enthalpy	H	0	0	g⸱m²⸱s⁻²	h	quantity
+base vector (horizontal orthogonal)	î	x̂	0	<none>	i	other
+electric current	I	i	0	m	i	quantity
+imaginary number; imaginary unit	i		0	i	i	other
+intensity	I	0 	i	g⸱s⁻³	i	quantity
+moment of inertia	I	0	0	g⸱m²	i	quantity
+action	I	0	S	g⸱m²⸱s⁻¹	i	quantity
+base vector (vertical orthogonal)	ĵ	ŷ	0	<none>	j	other
+impulse (translational)	J	0	0	g⸱m⸱s⁻¹	j	quantity
+base vector (deep orthogonal)	k̂	ẑ	0	<none>	k	other
+Boltzmann constant	kᵦ	0	0	g⸱m²⸱K⁻¹⸱s⁻²	k	quantity
+efficiency (refrigeration)	ε₋	0	κ	1	K	quantity
+equilibrium constant (ideal gas)	Kₚ	0		1	k	quantity
+internal energy; thermal energy	Kᵢₙₜ	0	U	g⸱m²⸱s⁻²	k	quantity
+kinetic energy	K	0	KE	g⸱m²⸱s⁻²	k	quantity
+spring constant	kₛ	k	0	g⸱s⁻²	k	quantity
+thermal conductivity	κ	0	λ	g⸱m⸱K⁻¹⸱s⁻³	k	quantity
+torsion constant	κ	0	0	m⁴	K	quantity
+torsion	T	0		g⸱m²⸱s⁻²	T	quantity
+wavenumber	k	μ⁻¹	σ	m⁻¹	k	quantity
+distance (curvilinear); length	l	0	d	g⸱m²⸱C⁻¹⸱s⁻²	l	quantity
+quantum number (azimuthal)	l	0	0	1	K	quantity
+angular momentum	L	0	0	g⸱m²⸱s⁻¹	l	quantity
+Lagrangian	L	ℒ	0	g⸱m²⸱s⁻²	l	quantity
+inductance	L	0	Lₘ	1	l	quantity
+latent heat of fusion	L_f	0	0	g⸱m²⸱s⁻²	l	quantity
+latent heat of vaporization	Lᵥ	0	0	g⸱m²⸱s⁻²	l	quantity
+number density (linear)	λ	0	0	m⁻¹	L	quantity
+radiance	L	0	Lᵩ	g⸱m²⸱K⁻¹⸱s⁻²	l	quantity
+wavelength	λ	0	0	m	L	quantity
+chemical potential	μ	0		1	M	quantity
+friction coefficient	μ	0	0	1	M	quantity
+Joule-Thompson coefficient	μⱼₜ	0	0	K⸱m⸱s²⸱g⁻¹	M	quantity
+mass	m	0	M	g	m	quantity
+mass flow rate	ṁ	0		g⸱s⁻¹	m	quantity
+mechanical energy	ME	0	0	g⸱m²⸱s⁻²	m	quantity
+optical magnification	m	M	0	1	m	quantity
+permeability	μ	0	0	g⸱m⸱C⁻²	M	quantity
+amount of substance	N	0	0	m³⸱g⁻¹⸱s⁻²	n	quantity
+number of moles	N	0	0	mol	n	quantity
+number; count	n	0	N	1	n	quantity
+quantum number (principal)	n	0	N	1	n	quantity
+angular frequency	ϖ	ωᵩ	ω	s⁻¹	P	quantity
+angular velocity	ω	0	0	m⁻¹	O	quantity
+circumference coefficient	π	0	0	1	P	quantity
+conduction rate	P_cd	0	0	g⸱m²⸱s⁻³	p	quantity
+electric dipole moment	p	p	0	C⸱m	p	quantity
+momentum (translational)	p	0	0	g⸱m²⸱s⁻²	p	quantity
+number of phases	P	0		1	p	quantity
+number of permutations	Pₘ	0		1	p	quantity
+polarization	P	0		C⸱m⁻²	p	quantity
+power	P	0	0	g⸱m²⸱s⁻³	p	quantity
+pressure	𝓅᠎	p	P	g⸱m⁻¹⸱s⁻²	p	quantity
+pressure (triple point)	𝓅᠎₃	p₃	P₃	g⸱m⁻¹⸱s⁻²	p	quantity
+probability of an outcome	Ƥₐ; Ƥ(a)	P(a)	pₐ	1	p	quantity
+radiation rate	P_rd	0	0	g⸱C⁻¹⸱s⁻¹	p	quantity
+electric charge	q	0	Qₑ; Q	C	q	quantity
+heat	Q	0	0	g⸱m²⸱s⁻²	q	quantity
+compression ratio	CR	0	r	1	r	quantity
+distance (center of mass)	r꜀	0	0	m	r	quantity
+displacement (lever arm)	r	0	0	m	r	quantity
+displacement (radial)	r	0	R; γ	m	r	quantity
+distance (perimetric)	l	L	P	m	r	quantity
+electric current density	ρᵢ	0	J	C⸱s⁻¹⸱m⁻³	R	quantity
+electric resistance	R	ʀ	0	g⸱m²⸱C⁻²⸱s⁻¹	r	quantity
+molar gas constant	R	R ̅		g⸱m²⸱K⁻¹⸱mol⁻¹⸱s⁻²	r	quantity
+mass density (volumic)	ρ	0	D	g⸱m⁻³	R	quantity
+number density (volumic)	ρₙ	0	n	m⁻³	R	quantity
+pressure ratio	rₚ	0		1	r	quantity
+resistivity	ʁ	0	ρ	g⸱m³⸱C⁻²⸱s⁻¹	R	quantity
+flow rate (volumic)	Rᵥ	0	xᵢ	1	r	quantity
+number density (areic; surface)	σ	0	0	m⁻²	S	quantity
+distance (arc length)	s	0	0	m	s	quantity
+distance (curvilinear displacement)	s	0	0	m	s	quantity
+distance (linear displacement)	s	0	0	m	s	quantity
+electric charge density (areic)	σ_q	0	0	C⸱m⁻²	S	quantity
+electric conductivity	ʁ⁻¹	0	σ; γ; ρ⁻¹	1	S	quantity
+entropy	S	0	0	1	s	quantity
+Stephan-Boltzmann constant	σ	0	0	g⸱K⁻⁴⸱s⁻³	S	quantity
+stress	σ	0		g⸱m⁻¹⸱s⁻²	S	quantity
+tension (surface)	γ	0	S	g⸱s⁻²	s	quantity
+wave function (time-dependent)	Ψ	0		<various>	S	quantity
+angular displacement (plane)	θ	0	0	1	T	quantity
+axis of rotation	θ̂	0	ẑ; k̂	<none>	T	quantity
+equivalence ratio	ϕ	0		1	T	quantity
+period	T	tᵩ		s	t	quantity
+temperature (thermodynamic)	Θ	T	Θ	K	T	quantity
+temperature (triple point)	T₃	0	0	K	t	quantity
+time	t	0	T	s	t	quantity
+time [dimension]	T	0	0	s	t	quantity
+torque	τ	0	0	g⸱m²⸱s⁻²	T	quantity
+potential energy	U	0	PE	g⸱m²⸱s⁻²	u	quantity
+velocity (relative)	u	0	0	m⸱s⁻¹	0	quantity
+electric potential	Vₐ	0	E; φ; V; U	g⸱m²⸱C⁻¹⸱s⁻²	v	quantity
+electric potential difference	ΔV	pᵢ	Vₐᵦ; ∆φ	g⸱m²⸱C⁻¹⸱s⁻²	v	quantity
+frequency (fundamental)	𝓅᠎₃	p₃	P₃	s⁻¹	V	quantity
+quantum number (vibrational)	v	0		1	v	quantity
+stoichiometric number	ν	0		1	V	quantity
+stoichiometric matrix	N	0		<none>	N	quantity
+velocity; speed	v	0	0	m⸱s⁻¹	v	quantity
+velocity (drift)	v_d	0	u	m⸱s⁻¹	v	quantity
+velocity (wave)	v_w	0	0	m⸱s⁻¹	v	quantity
+volume	V	0	0	m³	v	quantity
+multiplicity of a probability	W	Ω	0	1	w	quantity
+work	W	0	0	g⸱m²⸱s⁻³	w	quantity
+distance (orthogonal)	x; y; z	l; w; h	i; j; k	m	x	quantity
+distance (generalized displacement)	Xₖ	0		m	x	quantity
+mole fraction	xᵢ	0		1	x	quantity
+reactance	X	0	0	g⸱s⁻²	x	quantity
+compressibility factor	Z	0		1	z	quantity
+impedance	Z	0	0	g⸱m²⸱C⁻²⸱s⁻¹	z	quantity
+molecular partition function	q	0	z; ε	1	z	quantity
+distance (orthogonal position)	x; y; z	0	0	m	x	quantity
+distance (multivariate position)	r	0	d	m	r	quantity
+angle	θ	0	0	1	T	quantity
+angle (smallest subtended)	ϕ	0	0	1	P	quantity
+variable (unspecified)	Ϟ; ⴉ; ⴉ̵	0	0	<none>	0	other
+frame of reference	R	0	0	<none>	R	other
+field	₣	0	0	<none>	F	other
+average	̅	⟨ ⟩	0	<none>	0	modifier
+vector	⃗	0	bold print	<none>	0	modifier
+unit vector	̂	0	0	<none>	0	modifier
+time derivative	̇	̈	0	<none>	0	modifier
+operator	̂	0	[ ]	<none>	0	modifier
+source to system; absorption [subscript]	in	ab	abs	<none>	a	modifier
+adiabatic [subscript]	Q	0	0	<none>	q	modifier
+angular; rotational [subscript]	θ	0	0	<none>	T	modifier
+applied [subscript]	A	0	in; ext	<none>	a	modifier
+available [subscript]	A	0	0	<none>	a	modifier
+average [subscript]	avg	μ	a	<none>	a	modifier
+buoyancy [subscript]	b	B	0	<none>	0	modifier
+Carnot [subscript]	C	0	0	<none>	c	modifier
+center of mass [subscript]	c	0	0	<none>	c	modifier
+centripetal [subscript]	c	0	0	<none>	c	modifier
+combustion [subscript]	c	0	0	<none>	c	modifier
+component (orthogonal) [subscript]	x; y; z	0	0	<none>	x	modifier
+converging [subscript]	c	0	0	<none>	c	modifier
+critical state [subscript]	c	0		<none>	c	modifier
+diverging [subscript]	d	0	0	<none>	d	modifier
+drag [subscript]	D	0	drag	<none>	d	modifier
+elastic [subscript]	e	0	0	<none>	e	modifier
+electric [subscript]	E	0	0	<none>	e	modifier
+end state [subscript]	f	0	b	<none>	a	modifier
+environmental [subscript]	env	0	0	<none>	e	modifier
+equilibrium [subscript]	eq	0		<none>	e	modifier
+final [subscript]	f	0	0	<none>	f	modifier
+fluid [subscript]	flu	0	L	<none>	l	modifier
+formation [subscript]	f	0	0	<none>	f	modifier
+gravity [subscript]	G	0	g	<none>	g	modifier
+image from image [subscript]	j; k	0	0	<none>	j	modifier
+image from object [subscript]	i	0	0	<none>	i	modifier
+in vacuum [subscript]	o		0	<none>	0	modifier
+index [subscript]	i	0	0	<none>	i	modifier
+initial [subscript]	i	0	0	<none>	i	modifier
+interaction (m acting on n) [subscript]	n; m	0	0	<none>	n	modifier
+internal [subscript]	int	thermal	0	<none>	i	modifier
+isobaric [subscript]	p	0	0	<none>	p	modifier
+isochoric [subscript]	V	0	0	<none>	v	modifier
+isothermal [subscript]	T	0	0	<none>	t	modifier
+kinetic [subscript]	K	0	0	<none>	k	modifier
+lens (eyepiece) [subscript]	ey	0	0	<none>	e	modifier
+lens (objective) [subscript]	ob	0	0	<none>	o	modifier
+magnetic [subscript]	B	M	m	<none>	b	modifier
+maximum [subscript]	μ	max	m	<none>	0	modifier
+minimum [subscript]	A		0	<none>	0	modifier
+molar [subscript]	M	0	m	<none>	m	modifier
+net; sum; total; affective [subscript]	Σ	net	tot; t	<none>	S	modifier
+normal [subscript]	N	0	n	<none>	n	modifier
+object (source) [subscript]	obj	o	0	<none>	o	modifier
+observer [subscript]	o	0	0	<none>	o	modifier
+parallel [subscript]	∥	0	0	<none>	0	modifier
+perpendicular; orthogonal [subscript]	⊥	0	0	<none>	0	modifier
+radial [subscript]	r	0	0	<none>	r	modifier
+reaction [subscript]	R	0	0	<none>	r	modifier
+relative [subscript]	r	0	0	<none>	r	modifier
+reversible [subscript]	rev	0	0	<none>	r	modifier
+root-mean-squared [subscript]	rms	0	0	<none>	r	modifier
+rotational [subscript]	θ	0	rot	<none>	T	modifier
+submerged [subscript]	sub	s	0	<none>	s	modifier
+source from system; radiation; emission [subscript]	out	rd	s	<none>	o	modifier
+systemic [subscript]	sys	0	0	<none>	s	modifier
+tangential [subscript]	tan	⊥	0	<none>	t	modifier
+tension [subscript]	T	0	0	<none>	t	modifier
+translational [subscript]	r	s	tran	<none>	r	modifier
+unavailable [subscript]	U	0	0	<none>	u	modifier
+static [subscript]	S	0	σ	<none>	s	modifier
+conduction [subscript]	cd	0	0	<none>	0	modifier
+radiation; radiant [subscript]	rd	0	0	<none>	0	modifier
+absolute [subscript]	abs	0	0	<none>	0	modifier
+atmospheric [subscript]	atm	0	0	<none>	0	modifier
+new; derivative [superscript]	'	0	0	<none>	0	modifier
+function of variables (Ϟ,ⴉ,ⴉ̵)	f(Ϟ,ⴉ,ⴉ̵)	0	0	<none>	0	other
+vector components	⟨Ϟ,ⴉ,ⴉ̵⟩	0	0	<none>	0	other
+Avogadro constant	Nₐ		0	mol⁻¹	n	quantity
+Coulomb constant	k		4πε₀	g⸱m³⸱C⁻²⸱s⁻²	k	quantity
+Euler constant	e	0	0	1	e	quantity
+Helmholtz free energy	F	A	0	g⸱m²⸱s⁻²	a	quantity
+Lagrangian multiplier	λ	a	A; B	1	a	quantity
+Planck constant	h	ℏ	0	g⸱m²⸱s⁻¹	h	quantity
+compressibility	κ	β	K	m⸱s²⸱g⁻¹	k	quantity
+sound pressure level	Lₚ	β	SPL	1	L	quantity
+focal point	fₚ	0	0	m	f	quantity
+magnetization	M	0		C⸱m⁻¹⸱s⁻¹	m	quantity
+magnetic moment	m	0	0	C⸱m²⸱s⁻¹	m	quantity
+charge density (linear)	λ_q	0	ρₗ; τ	<various>	L	quantity
+refractive index	nᵢ	0	n	1	n	quantity
+illuminance [unit]	lx	0	0	cd⸱m⁻²	l	quantity
+luminous flux [unit]	lm	0	0	cd	0	quantity
+luminous intensity [unit]	J		0	cd	j	quantity
+mass [dimension]	M	0	0	g	m	quantity
+molar mass	k	0	σ	g⸱mol⁻¹	m	quantity
+pressure (partial)	𝓅᠎ᵢ	pᵢ	Pᵢ	g⸱m⁻¹⸱s⁻²	p	quantity
+heat flow rate; thermal flux; heat flux	Φ	0	0	g⸱m²⸱s⁻³	F	quantity
+thermal flux density; heat flux density	ϕ	0	0	g⸱s⁻³	F	quantity
