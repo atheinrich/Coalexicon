@@ -1,0 +1,106 @@
+one	mole (mol=1.66⸱10⁻²⁴)	cycle, radian (rad), plane angle (m⸱m⁻¹), steradian (sr), solid angle (m²⸱m⁻²), degree (m⸱m⁻¹), arcsecond (1"=(π/648000) rad), arcminute (1'=(π/10800) rad), neper (Np), bel (B), fine-structure constant (α=qₑ²/2ε₀hc=7.30×10⁻³)
+per_candela		inverse candela (cd⁻¹)
+per_coulomb		inverse coulomb (C⁻¹)
+per_gram		inverse gram (g⁻¹)
+per_kelvin		inverse kelvin (K⁻¹), expansion coefficient
+per_kelvin_second		Wien frequency displacement constant (b'=5.88×10¹⁰ Hz⸱K⁻¹)
+per_meter		linear number density (m⁻¹), wavenumber, Rydberg constant (R=1.10×10⁷ m⁻¹)
+per_meter_squared		areic number density (m⁻²)
+per_meter_cubed		volumic number density (m⁻³)
+per_mole		Avogadro constant (Nₐ=6.02×10²³ mol⁻¹)
+per_second	curie (Ci=3.7×10¹⁰ s⁻¹)	hertz (Hz), frequency (Hz), rate (s⁻¹), angular velocity (rad⸱s⁻¹), becquerel (Bq)
+per_second_squared		angular acceleration (rad⸱s⁻²)
+candela		lumen (lm), luminous flux (cd·sr)
+candela_per_meter_squared	phot (ph=10⁴ cd⸱m⁻²), stilb (sb=10⁴ cd⸱m⁻²)	lux (lx), illuminance (lm⸱m⁻²)
+coulomb		electric charge (A·s), elementary charge (qₑ=1.60⸱10⁻¹⁹ C)
+coulomb_per_gram	roentgen (R=2.58×10⁻⁴ C⸱kg⁻¹)	specific charge, exposure (s·A⸱kg⁻¹)
+coulomb_per_meter		linear charge density
+coulomb_per_meter_squared		areic charge density (C⸱m⁻²), electric displacement field, electric polarization density
+coulomb_per_meter_squared_second		areic current density (A⸱m⁻²)
+coulomb_per_meter_cubed		volumic charge density (C⸱m⁻³)
+coulomb_per_meter_second	oersted (Oe=(1000/4π) A⸱m⁻¹)	magnetization (A⸱m⁻¹)
+coulomb_per_mole		molar charge, Faraday constant (ℱ=Nₐqₑ=9.65×10⁴ C⸱mol⁻¹)
+coulomb_per_second		electric current (A)
+coulomb_meter	debye (D=3.34×10⁻³⁰ C⸱m)	electric dipole moment
+coulomb_meter_squared_per_second		magnetic moment (A⸱m²), Bohr magneton (μ=qₑh/4πmₑ=9.27×10⁻²⁴ J⸱T⁻¹)
+coulomb_second_per_gram_meter_squared		inverse weber (Wb⁻¹), Josephson constant (K=2qₑ/h=4.84×10¹⁴ Hz⸱V⁻¹)
+coulomb_second_per_gram		mobility (m²⸱V⁻¹⸱s⁻¹), inverse tesla (T⁻¹)
+coulomb_second_squared_per_gram_meter_squared		inverse volt (V⁻¹)
+coulomb_squared_second_per_gram_meter_squared		siemens (S), electric conductance (A⸱V⁻¹), electric conductance quantum (G₀=2qₑ²/h=7.75×10⁻⁵ S)
+coulomb_squared_second_per_gram_meter_cubed		electric conductivity
+coulomb_squared_second_squared_per_gram_meter_squared		farad (F), capacitance (C⸱V⁻¹)
+coulomb_squared_second_squared_per_gram_meter_cubed		electric permittivity (F⸱m⁻¹), vacuum permittivity (ε₀=8.85×10⁻¹² F⸱m⁻¹)
+coulomb_squared_per_gram_meter_squared		magnetic reluctance (H⁻¹)
+gram	atomic mass unit (u=1.66×10⁻²⁷ kg), carat (ct=2×10⁻⁴ kg), gamma (γ=10⁻⁹ kg)	mass (g), rest energy, electron mass (mₑ=9.11×10⁻³¹ kg), Planck mass (mₚ=√(ℏc/G)=2.18×10⁻⁸ kg)
+gram_per_coulomb_second	gauss (G=10⁻⁴ g⸱C⁻¹⸱s⁻¹)	tesla (T), magnetic field strength (Wb⸱m⁻²), gamma (γ=10⁻⁹ g⸱C⁻¹⸱s⁻¹)
+gram_per_kelvin_meter_second_squared		volumic heat capacity (J⸱K⁻¹⸱m⁻²)
+gram_per_kelvin_second_cubed		thermal admittance (W⸱K⁻¹⸱m⁻²)
+gram_per_kelvin_4_second_cubed		Stefan-Boltzmann constant (σ=2π⁵k⁴/15h³c²=5.67×10⁻⁸ W⸱m⁻²⸱K⁻⁴)
+gram_per_meter		linear mass density
+gram_per_meter_squared		areic mass density
+gram_per_meter_cubed		volumic mass density
+gram_per_meter_second	poise (P=10⁻¹ g·m⁻¹⸱s⁻¹)	dynamic viscosity (Pa·s)
+gram_per_meter_second_squared	standard atmosphere (atm=101325 N⸱m⁻²), bar (bar=10⁵ N⸱m⁻²), millimeter of mercury (mmHg,=1.33 N⸱m⁻²), torr (torr=(101325/760) N⸱m⁻²)	pascal (Pa), pressure (N⸱m⁻²), stress, torsion, bulk modulus, volumic energy density (J⸱m⁻³)
+gram_per_mole		molar mass constant (Mᵤ=1.00 g⸱mol⁻¹)
+gram_per_second		mass flow rate
+gram_per_second_squared		surface tension (N⸱m⁻¹), spring constant
+gram_per_second_cubed		intensity, heat flux density (W⸱m⁻²), radiance (W⸱m⁻²·sr⁻¹)
+gram_meter_per_coulomb_squared		magnetic permeability (H⸱m⁻¹), vacuum permeability (μ₀=1.26×10⁻⁶ N⸱A⁻²)
+gram_meter_per_coulomb_second		magnetic vector potential (T⸱m, W⸱m⁻¹)
+gram_meter_per_coulomb_second_squared		electric field strength (N⸱C⁻¹), linear potential density (V⸱m⁻¹)
+gram_meter_per_kelvin_second_cubed		thermal conductivity (W⸱m⁻¹·K⁻¹)
+gram_meter_per_kelvin_squared_second_3/2		thermal effusivity (J∙K⁻²∙m⁻¹∙s⁻¹ᐟ²)
+gram_meter_per_second		momentum (g⸱m⸱s⁻¹), impulse (N⸱s)
+gram_meter_per_second_squared	dyne (dyn=10⁻⁵ N), kilogram-force (kgf=9.81 N)	newton (N), force
+gram_meter_squared_per_coulomb_squared		henry (H), inductance (Wb⸱A⁻¹), magnetic permeance
+gram_meter_squared_per_coulomb_second	maxwell (Mx=10⁻⁸ Wb)	weber (Wb), magnetic flux (V·s), magnetic flux quantum (Φ₀=h/2qₑ=2.07×10⁻¹⁵ Wb)
+gram_meter_squared_per_coulomb_second_squared		electric potential, voltage (volt, V), electromotive force (W⸱A⁻¹)
+gram_meter_squared_per_coulomb_squared_second		ohm (Ω), electric resistance (V⸱A⁻¹), electric impedance, electric reactance, vacuum impedance (Z₀=μ₀c=3.77×10² Ω)
+gram_meter_squared_per_kelvin_second_squared		entropy, heat capacity (J⸱K⁻¹), Boltzmann constant (k=1.38×10⁻²³ J⸱K⁻¹), radiance
+gram_meter_squared_per_kelvin_second_cubed		thermal conductance (W⸱K⁻¹), thermal conductance quantum (g₀(T)=π²kᵦ²T/3h)
+gram_meter_squared_per_kelvin_mole_second_squared		molar heat capacity (J⸱mol⁻¹·K⁻¹), molar entropy, molar gas constant (R=Nₐk=8.31 J⸱mol⁻¹·K⁻¹)
+gram_meter_squared_per_mole_second		molar Planck constant (Nₐh=3.99×10⁻¹⁰ J⸱Hz⁻¹⸱mol⁻¹)
+gram_meter_squared_per_mole_second_squared		molar energy (J⸱mol⁻¹)
+gram_meter_squared_per_second		action, angular momentum, canonical product, Planck constant (h=6.63×10⁻³⁴ J⸱s), reduced Planck constant (ħ=1.05×10⁻³⁴ J⸱Hz⁻¹)
+gram_meter_squared_per_second_squared	electronvolt (eV=1.60×10⁻¹⁹ J), erg (erg=10⁻⁷ J), calorie (cal=4.184 J)	joule (J), energy, work (N·m), heat, torque (N·m), Hartree energy (Eₕ=2Rhc=4.36⸱10⁻¹⁸ J)
+gram_meter_squared_per_second_cubed		watt (W), power (J⸱s⁻¹), radiant flux, radiant intensity (W⸱sr⁻¹)
+gram_meter_cubed_per_coulomb_squared_second		electric resistivity
+gram_meter_cubed_per_coulomb_squared_second_squared		Coulomb constant (kₑ=9×10⁹ N⸱m²⸱C⁻²)
+gram_meter_cubed_per_coulomb_second_squared		electric flux (V⸱m)
+gram_meter_4_per_second_cubed		first radiation constant (c₁=2πhc²=3.74×10⁻¹⁶ W⸱m²)
+kelvin	degrees Celsius (ºC=273.15 K)	temperature (K), Planck temperature (Tₚ=√(ℏc⁵/Gkᵦ²)=1.42×10³² K)
+kelvin_per_meter		temperature gradient
+kelvin_meter		second radiation constant (c₂=hc/k=1.44×10⁻² K⸱m), Wien wavelength displacement constant (b=2.90×10⁻³ K⸱m)
+kelvin_meter_second_squared_per_gram		Joule-Thompson coefficient (K⸱Pa⁻¹)
+kelvin_second_cubed_per_gram		thermal insulance (K⸱m²⸱W⁻¹)
+kelvin_second_cubed_per_gram_meter_squared		thermal resistance (K⸱W⁻¹)
+meter	astronomical unit (au=1.50⸱10¹¹ m), ångström (Å=10⁻¹⁰ m), mile (mi=1609 m), inch (in=0.0254 m), x unit (xu=10⁻¹³ m)	distance (m), Bohr radius (a₀=5.29×10⁻¹¹ m), Planck length (𝓁ₚ=√(ℏG/c³)=1.62×10⁻³⁵ m), classical electron radius (rₑ=a₀α²=2.82×10⁻¹⁵ m)
+meter_per_second	mile per hour (mi⸱hr⁻¹=(1852/3600) m⸱s⁻¹), knot (kn=0.514 m⸱s⁻¹)	velocity, speed of light (c=3.00×10⁸ m⸱s⁻¹)
+meter_per_second_squared	gal (Gal=10⁻² m⸱s⁻²)	acceleration
+meter_second_squared_per_gram		inverse pascal (Pa⁻¹)
+meter_squared	acre (4047 m²), hectare (ha=10⁴ m²), barn (b=10⁻²⁸ m²)	area (m²)
+meter_squared_per_second	stokes (St=10⁻⁴ m²⸱s⁻¹)	thermal diffusivity, kinematic viscocity, circulation quantum (ς=h/2mₑ=3.64×10⁻⁴ m²⸱s⁻¹)
+meter_squared_per_second_squared	Roentgen equivalent man (rem=10⁻² J⸱kg⁻¹)	sievert (Sv), specific energy (J⸱kg⁻¹), energy-mass ratio, absorbed dose, kerma, gray (Gy)
+meter_squared_per_kelvin_second_squared		specific heat capacity (J⸱kg⁻¹·K⁻¹)), specific entropy
+meter_squared_per_second_cubed		absorbed dose rate (Gy⸱s⁻¹)
+meter_cubed	liter (L=10⁻³ m³), metric ton (t=10³ m³), lambda (λ=10⁻⁹ m³)	stere (st), volume (m³)
+meter_cubed_per_gram_second_squared		gravitational constant (G=6.67×10⁻¹⁴ m³⸱g⁻¹⸱s⁻²)
+meter_4		torsion constant (m⁴)
+mole		amount of substance (mol), 1
+mole_per_meter_cubed		molar concentration
+mole_per_second		katal (kat), catalytic activity
+second	minute (min=60 s), hour (hr=3600 s), day (d=86400 s)	time (s), action-energy ratio (ħ⸱Eₕ⁻¹=2.41⸱10⁻¹⁷ s), Planck time (tₚ=√(ℏG/c⁵)=5.39×10⁻⁴⁴ s)
+second_per_coulomb		inverse ampere
+second_per_meter		pace (s⸱m⁻¹)
+second_squared_per_gram_meter		inverse newton (N⁻¹)
+second_squared_per_gram_meter_squared		inverse joule (J⁻¹)
+second_cubed_per_gram_meter_squared		inverse watt (W⁻¹)
+second_4_per_gram_squared_meter_4		G⁰=4.54×10¹⁴ J⁻²
+gram_per_meter_squared_second_squared		volumic force density (N⸱m⁻³)
+gram_meter_per_second_cubed		linear power density (W⸱m⁻¹), N⸱s⁻¹
+gram_per_meter_second_cubed		volumic power density (W⸱m⁻³)
+gram_meter_squared		moment of inertia (g⸱m²)
+per_meter_3/2		volumic wave function (m⁻³ᐟ²)
+gram_meter		dynamic mass moment
+coulomb_squared_second_squared_per_gram		electric polarizability (C⸱m²⸱V⁻¹)
+gram_per_meter_1/2_second_squared		Schrodinger product
