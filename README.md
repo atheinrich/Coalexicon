@@ -6,12 +6,12 @@ Interactive repository and dimensional analysis suite for numerical quantities u
 -  Press "Enter" in a textbox to submit a value, then click "Save" to retain it.
 
 # Notepad
--  The Notepad is always present at the bottom of the application.
+-  The Notepad is always present at the bottom of the application. It may be edited manually through database_notes.
 -  Press "←" or "→" to move between each of the three pages.
 -  Press "✗" to clear the current page.
 
 # Symbol Manager
--  This application is an interactive repository with various sorting methods.
+-  This application is an interactive repository with various sorting methods. Its entries may be edited manually through database_clx, database_iso, and database_custom.
 -  Use the "Preset" menu to select a system of conventions. The default is "CLX," which primarily differs from "SI/ISO" in its use of grams and coulombs in place of kilograms and amperes.
 -  Use the "Category" menu to select which quantities to view.
 -  Use the "Sort" menu to select a sorting method.
@@ -19,7 +19,7 @@ Interactive repository and dimensional analysis suite for numerical quantities u
 -  Use the empty box at the bottom of the "Name" column to create a new entry.
 
 # Unit Manager
--  This application is a dimensional analysis suite. Switch the "Preset" in Symbol Manager to "SI/ISO" to work in base units of kilograms and amperes.
+-  This application is a dimensional analysis suite. Its entries may be edited manually through database_conversions and database_units. Switch the "Preset" in Symbol Manager to "SI/ISO" to work in base units of kilograms and amperes.
 -  Press "×" or "÷" beneath a unit to add it to the current set of units, which is displayed in the window at the top left.
 -  Click inside this display window to copy the current set to the Notepad.
 -  Enter non-base units or numbers in the entry box on the right. Supported units are listed in database_conversions. Numerical entries support the "#e#" convention. Enter "theme" to change the background.
