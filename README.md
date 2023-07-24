@@ -16,12 +16,13 @@ Interactive repository and dimensional analysis suite for numerical quantities u
 -  Use the "Category" menu to select which quantities to view.
 -  Use the "Sort" menu to select a sorting method.
 -  Use the search bar and the "🔍" button to search entries by name.
+-  Use the empty box at the bottom of the "Name" column to create a new entry.
 
 # Unit Manager
 -  This application is a dimensional analysis suite. Switch the "Preset" in Symbol Manager to "SI/ISO" to work in base units of kilograms and amperes.
 -  Press "×" or "÷" beneath a unit to add it to the current set of units, which is displayed in the window at the top left.
 -  Click inside this display window to copy the current set to the Notepad.
--  Enter non-base units or numbers in the entry box on the right. Supported units are listed in database_conversions. Numerical entries support the "#e#" convention (for the most part). Enter "theme" to change the background.
+-  Enter non-base units or numbers in the entry box on the right. Supported units are listed in database_conversions. Numerical entries support the "#e#" convention. Enter "theme" to change the background.
 -  Toggle fractional powers by pressing "uˣ" on the left prior to "×" or "÷."
 -  Add an SI prefix to a unit by selecting a prefix button prior to "×" or "÷."
 -  Recall a saved set of units by selecting it in the Favorites list.
@@ -32,3 +33,11 @@ Interactive repository and dimensional analysis suite for numerical quantities u
 - Press "Convert to Base" to replace all non-base units in the current set of units by their equivalent units and values in the current "Preset."
 - Press "Favorites" to add or remove the current set of units to the Favorites list.
 - Press "Values" to toggle the visibility of numbers in the display window.
+
+# Known Issues
+-  When creating a new entry in Symbol Manager, proper behavior depends on the order in which actions are taken. It is best to write the name and press enter before editing the other cells.
+-  Removing entries from Symbol Manager is only possible by editing the database file, such as database_clx or database_iso. This must also be done to set the "Category" for a new entry.
+-  The scroll bar in Symbol Manager does not automatically account for shorter lists, requiring the user to scroll to the top of the list before the scroll bar can adjust.
+-  Certain processes in Unit Manager lead to the duplication of units in the Favorites list, wherein only one can be removed in the application. This may be fixed manually by editing database_favorites.
+-  Fractional units do not always behave as intended.
+-  The "#e#" convention in Unit Manager does not always behave well with division.
